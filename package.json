@@ -1,0 +1,34 @@
+{
+  "name": "warthunder-rpc",
+  "version": "0.0.1",
+  "description": "Rich Presence for War Thunder",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devdutchy/warthunder-rpc.git"
+  },
+  "keywords": [
+    "war",
+    "thunder",
+    "discord",
+    "richpresence"
+  ],
+  "author": "Michel Nguyen <devdutchy.github.io> (modzongaming@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devdutchy/warthunder-rpc/issues"
+  },
+  "homepage": "https://github.com/devdutchy/warthunder-rpc#readme",
+  "dependencies": {
+    "discord-rpc": "github:devsnek/discord-rpc",
+    "electron": "^1.7.9",
+    "snekfetch": "^3.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-config-aqua": "^2.0.1"
+  }
+}

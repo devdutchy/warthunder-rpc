@@ -1,0 +1,26 @@
+{
+  "extends": "aqua",
+  "rules": {
+    "quotes": [
+      "warn",
+      "double",
+      {
+        "avoidEscape": true,
+        "allowTemplateLiterals": true
+      }
+    ],
+    "indent": [
+      "error",
+      2,
+      {
+        "SwitchCase": 1
+      }
+    ],
+    "max-len": [
+      "warn",
+      150
+    ],
+    "eol-last": 0,
+    "no-process-env": "off"
+  }
+}
