@@ -12,3 +12,9 @@
 2. Install all dependencies and ESLint.
 3. Code your heart out!
 4. When finished, submit a [pull request](https://github.com/devdutchy/warthunder-rpc/compare)!
+
+## Author
+**warthunder-rpc** © [devdutchy](https://github.com/devdutchy), Released under the [GNU General Public v3](https://github.com/modzdev/warthunder-rpc/blob/master/LICENCE) Licence.<br>
+Authored and maintained by devdutchy.
+
+> GitHub [@devdutchy](https://github.com/devdutchy)
