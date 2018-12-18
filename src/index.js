@@ -101,6 +101,6 @@ rpc.on("ready", () => {
   }, 15e3);
 });
 
-rpc.login(ClientId).catch(console.error);
+rpc.login({clientId:ClientId}).catch(console.error);
 
 process.on("unhandledRejection", console.error);
