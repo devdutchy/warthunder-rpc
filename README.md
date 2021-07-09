@@ -1,3 +1,5 @@
+> NOTE: This repo and application have been archived and are no longer maintained by the developer. Stuff _will_ be broken. Use it at your own consideration
+
 # warthunder-rpc
 > A Rich Presence client for War Thunder
 
@@ -14,7 +16,7 @@
 4. When finished, submit a [pull request](https://github.com/devdutchy/warthunder-rpc/compare)!
 
 ## Author
-**warthunder-rpc** © [devdutchy](https://github.com/devdutchy), Released under the [GNU General Public v3](https://github.com/modzdev/warthunder-rpc/blob/master/LICENCE) Licence.<br>
-Authored and maintained by devdutchy.
+**warthunder-rpc** © [devdutchy](https://github.com/devdutchy), Released under the [GNU General Public v3](https://github.com/devdutchy/warthunder-rpc/blob/master/LICENCE) Licence.<br>
+Authored by devdutchy.
 
 > GitHub [@devdutchy](https://github.com/devdutchy)
